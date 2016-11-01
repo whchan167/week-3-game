@@ -1,0 +1,41 @@
+body {background-color:blue;}
+
+#image {width:100%;}
+
+#withimage {margin-bottom: 50px;
+			margin-top:-40px;
+			font-size:50px;}
+
+
+#currentword {font-size:50px;}
+
+#main {width:600px;
+	   margin:auto;
+	   height:400px;
+	   margin-bottom:130px;}
+
+#box2 {width:100px; height:20px;
+	   margin:auto;
+	   background-color: red;
+	   border:dotted yellow;}
+
+img {height:150px;
+     left:400px;}
+
+header { height:200px; width:100%;
+	    margin:auto;}
+
+
+h1 {text-align:center;}
+
+
+#wins, #loss, #guesses, #lettersguessed, #currentword {
+	  
+	   font-size: 20px;
+	   width:65%;height:50px;
+	   margin:auto;}
+
+footer {background-color:yellow;
+		width:100%;height:50px;
+	    text-align:center;
+	    }
