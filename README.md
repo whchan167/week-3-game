@@ -1,4 +1,4 @@
-# Hangman GAME
+# Hangman Game
 This Disney hangman game was developed using basic HTML/CSS and javascript code. The game was designed to 
 let player guess the Disney movie which the title was hidden and replaced by underscore. When the player presses
 the correct letter key corresponding to the letter in the title, the letter will be revealed above the underscore. If 
@@ -8,4 +8,4 @@ The player wins the game if he/she successfully guesses all letters in the title
 
 Have fun playing with Disney hangman game. 
 
-#Cheer with all Disney fans
+## Cheer with all Disney fans
