@@ -7,4 +7,5 @@ the letter pressed by the player is incorrect, the number of guesses will reduce
 The player wins the game if he/she successfully guesses all letters in the title corrrectly without consuming all chances of guesses. Otherwise, the player losses the game.
 
 Have fun playing with Disney hangman game. 
-Cheer with all Disney fans
+
+##Cheer with all Disney fans
