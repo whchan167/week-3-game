@@ -8,4 +8,4 @@ The player wins the game if he/she successfully guesses all letters in the title
 
 Have fun playing with Disney hangman game. 
 
-##Cheer with all Disney fans
+#Cheer with all Disney fans
